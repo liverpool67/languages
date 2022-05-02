@@ -1,0 +1,403 @@
+{
+  "header": {
+    "title": "BIM-LIBRARY",
+    "searchbar": "Search Product or Brands",
+    "change_region": "Change Region",
+    "downloads": "My Downloads",
+    "login": "Login",
+    "profile_menu": {
+      "home": "Home",
+      "myaccount": "My Account",
+      "logout": "Log Out"
+    },
+    "language": "Choose Language"
+  },
+  "footer": {
+    "contact": "Contact",
+    "sitemap": "Sitemap",
+    "Legal": "Legal Notes & Privacy",
+    "cookie": "cookie Policy",
+    "privacy": "Privacy Policy",
+    "copyright": "© 2022 by Saint-Gobain BIM STUDIO. All rights reserved. See our Privacy Policy and Cookie Policy."
+  },
+  "cookie_Popup": {
+    "cookie_title": "Set your cookie preferences",
+    "cp_description1": "Saint-Gobain BIM Library use cookies or similar technologies. Cookies allow us to access, analyze and store information such as the characteristics of your terminal or certain personal data (unique identifiers) for the following purposes : analysis and improvement of the user experience and/or our offer of content, products and services; audience measurement and analysis.",
+    "cp_description2": "You can freely give, refuse or withdraw your consent to the placing of cookies at any time by accessing our cookie setting tool. You can consent to the placing of cookies by clicking on 'Allow All'. You may refuse to accept cookies by clicking 'Reject All'.",
+    "cp_description3": "For more information, consult our",
+    "link":" Cookie Policy Page",
+    "allow_btn": "Allow all",
+    "reject_btn": "Reject all",
+    "cookie_settings_btn": "Cookie settings"
+  },
+  "location_detection": {
+    "warning_msg": "It is mandatory to select a region to proceed further...",
+    "choose_regionbtn": "Choose Region",
+    "title": "Choose a Market Region",
+    "choose_region_popupbtn": "Choose Region",
+    "home_btn": "Home"
+  },
+  "cookie_setting_popup": {
+    "general_info": {
+      "title": "General Information",
+      "question1": "What are cookies and why are they used ?",
+      "answer1": "When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience.",
+      "question2": "How to choose ?",
+      "answer2": "Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.",
+      "moreInformation": "More Information"
+    },
+    "bimlib_cookie": {
+      "title": "Bimlibrary Cookies",
+      "description": "These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. These cookies do not store any personally identifiable information.",
+      "learnmore":"learn more",
+      "always_active": "Always Active"
+    },
+    "google_analytics": {
+      "title": "Google Analytics",
+      "description": "These cookies make it possible to anonymously measure and aggregate the audience of the content on the site and improve the overall experience.",  
+      "enable": "Enable",
+      "disable": "Disbale"
+    },
+  
+    "confirm_btn": "Confirm my choices",
+    "setting_btn": "Settings"
+  },
+  "home_page": {
+    "discover_btn": "Discover Saint-Gobain",
+    "home_banner_Page": {
+      "banner_title": "DISCOVER THE SAINT-GOBAIN BIM OBJECTS LIBRARY",
+      "description1": "The BIM Objects Library provides BIM files for a vast array of Saint-Gobain products and systems that can be used for constructionprojects.",
+      "description2": "The users can access the description, characteristics and technical documentation of the products and systems.",
+      "description3": "Download high quality BIM objects for free in various file formats: Revit, Autocad, IFC and more...",
+      "create_account_btn": "Create your free account",
+      "browse_btn": "Browse"
+    },
+    "home_page_headings": {
+      "by_application": "By Application",
+      "by_brands":"Choose products from a large choice of brands",      
+      "by_products": {
+        "title": "More than 10 000 products",
+        "browse_productbtn": "Browse more products"
+      },
+      "learn_about_bim": {
+        "title": "Learn About BIM",
+        "commitment": "Commitment to BIM",
+        "objects": "Saint-Goain shares BIM objects",
+        "assist": "Assist you with BIM",
+        "account": "Personal account on BIM"
+      }
+    }
+  },
+  "browse_page": {
+    "all_brands": "All Brands",
+    "filters": "Filters",
+    "reset_all": "Reset All",
+    "total_products": "Total Products",
+    "product_filter": {
+      "filter": "Filter",
+      "mostDownload": "Most Downloaded",
+      "mostRecent": "Most Recent",
+      "ascending_alphabetical_order": "From A to Z",
+      "descending_alphabetical_order": "From Z to A"
+    }
+  },
+  "contact_page": {
+    "title": "Contact Us",
+    "mrs": "Mrs",
+    "mr": "Mr",
+    "miss": "Miss",
+    "full_name": "Full Name",
+    "email": "Email",
+    "phone_number": "Phone Number",
+    "address": "Address",
+    "job_title": "Job Title",
+    "choose_profession":"Choose your profession",
+    "country": "Country",
+    "company_name": "Company Name",
+    "subject": "Subject",
+    "message": "Message",
+    "submit_btn": "SUBMIT",
+    "validation_msgs": "This field is required."
+  },
+  "sitemap_page": {
+    "header": {
+      "by_pages": {
+        "title": "Pages",
+        "bim_obj_lib": "BIM Objects Library",
+        "create_new_acc": "Create New Account",
+        "forgot_password": "I forgot my password"
+      },
+      "by_products": "Products"
+    }
+  },
+  "legal_notice_page": {
+    "title": "LEGAL NOTICE",
+    "heading": {
+      "by_publisher": {
+        "title": "PUBLISHER OF THE SITE",
+        "description1": " The purpose of this institutional site 'the Site', accessible at the address https://bimlibrary.saint-gobain.com, is to provide information on products and systems from Saint-Gobain Group brands.",
+        "description2": "The “Saint-Gobain Group” or “Saint-Gobain” refers to the group composed of Compagnie de Saint-Gobain and a large number of companies and other entities that are affiliated to it, which it directly or indirectly effectively controls, and which are hereinafter called the “Saint-Gobain Group Entities”.",
+        "sub_title": "This Site is published by Compagnie de Saint-Gobain.",
+        "company_form": "Company form : Société anonyme",
+        "address": " Corporate headquarters: Tour Saint-Gobain - 12 place de l’Iris, 92096 La Défense Cedex - FRANCE.",
+        "capital": "Capital: 2 178 733 804 €",
+        "registration_number": "Company Registration Number: NANTERRE B 542 039 532",
+        "vat_number": "Intra-Community VAT number: FR35 542039532",
+        "publication_director": "Publication Director: Mathilde HEBERT, Deputy CMO.",
+        "credits": "The information relating to the design and hosting of the Website are provided in Section-6) “Credits”."
+      },
+      "responsibility_and_liability": {
+        "title": "RESPONSIBILITY AND LIABILITY",
+        "description1": " Compagnie de Saint-Gobain, owner of this Website, will on an ongoing basis use its best efforts to ensure the reliability of any and all information provided on this Website at the time it is displayed online, as well as while it is available online.",
+        "description2": "Compagnie de Saint-Gobain reserves the right to modify and/or rectify the content of the information and documents published on this Website at any time, without notice.",
+        "description3": " Compagnie de Saint-Gobain (as well as any other Saint-Gobain Group Entity) may not be held liable for errors or omissions in the information disseminated or technical problems encountered on the Website and on all the other sites to which it establishes links, or any interpretation of the information published on these sites, or the consequences of their use.",
+        "description4": " Compagnie de Saint-Gobain (as well as any other Saint-Gobain Group Entity) may not be held liable for errors or omissions in the information disseminated or technical problems encountered on the Website and on all the other sites to which it establishes links, or any interpretation of the information published on these sites, or the consequences of their use.",
+        "description5": "More generally, Compagnie de Saint-Gobain (as well as any other Saint-Gobain Group Entity) shall not be liable for any and all damage, direct or indirect, whatever the cause, origin, nature or consequence, caused by the access of anyone to the Website or the impossibility of accessing it, or by the use of the Website and/or the credit given to any information available directly or indirectly from this Website as well as any website to which the Website refers or establishes a link."
+      },
+      "intellectual_property": {
+        "title": "INTELLECTUAL PROPERTY",
+        "description1": " Unless otherwise stated, the intellectual property rights in the documents on the Website and in each element created for this Website are exclusively owned by Compagnie de Saint-Gobain and/or the Saint-Gobain Group Entities, which grant no license or right other than the rights to visit and navigate on the Website. The reproduction of all documents published on the Website (notably, the photographs, films and animations) is solely authorized for information purposes, and only for personal and private use, any reproduction and any use of copies made for other purposes being expressively prohibited, except with the prior written permission of Compagnie de Saint-Gobain. The corporate names, logos, products, brands and domain names mentioned on this Website are the sole property of Compagnie de Saint-Gobain and/or the Saint-Gobain Group Entities, and shall not be used without the prior and written authorization from the company or entity concerned.",
+        "description2": "Conditions for the use of BIM Library objects are detailed in the license available here :"
+      },
+      "cookies": {
+        "title": "COOKIES",
+        "subtitle1": "Use of Cookies",
+        "description1":"When you visit our company website, cookies may be automatically installed and temporarily saved in your computer’s memory or on its hard disk in order to make it easier for you to navigate around our site. Cookies do not enable us to identify you, but are used to recordinformation about the pages you have viewed on our website, the date and time of your visit to the site, etc.",
+        "description2":"Please find on this",
+        "page":"page",
+        "description3":"the list of the cookies used by the site",
+        "description4":"and their purpose.",
+        "subtitle2": "General Cookie Settings",
+        "description5": "You can use the settings within your browser to control the cookies that are set on your computer or mobile device.",
+        "description6": " You can disable cookies in your web browser. However, this will disable all cookies used by your browser, including those from other websites, which may cause certain settings or information to be altered or lost. Disabling cookies may change your browsing experience on our website, or may make navigating around the site more difficult.",
+        "internetExp": "Internet Explorer™",
+        "Chrome": "Chrome™",
+        "firefox": "Firefox™",
+        "opera": "Opera™",
+        "safari": "Safari™"
+      },
+      "data_collected": {
+        "title": "DATA COLLECTED ON THE SITE",
+        "description1": "Each visitor to this Site who provides information to Compagnie de Saint-Gobain grants the latter the totality of the transferable rights related to this information and authorizes it to make whatever use it wishes of it. The information thus provided by the visitors will be considered non-confidential, must be exact and lawful and must not prejudice the interests of third parties.",
+        "description2": {
+          "sentence1": "More specifically concerning the personal data collected on the Site,please go to the",
+          "yourData": "Your data and rights",
+          "sentence2": "page to learn more."
+        }
+      },
+        "licence_agreement": {
+          "title": "BIM OBJECT LICENCE USE AGREEMENT",
+          "description": "The use of one or more BIM objects implies prior consent to this",
+          "licence": "Licence"
+        },
+        "credits": {
+          "title": "CREDITS",
+          "description1": "Web hosting: Amazon Web Services – Dublin, Ireland",
+          "description2": "Website design and conception : Compagnie de Saint-Gobain - Direction des Systèmes d’Information Groupe. Tour Saint-Gobain - 12 place de l’Iris, 92096 La Défense Cedex - FRANCE. Telephone: +33 (0) 1 88 54 00"
+        }
+    }
+  },
+  "cookie_policy_page": {
+    "title": "COOKIE USE POLICY",
+    "question1": "WHAT ARE COOKIES?",
+    "answer1": "The Saint-Gobain BIM Library, use cookies and other identification technologies on their website, applications to, among other things: determine the popularity of content, analyze site traffic and trends, remember user's preferences and settings, and generally understand the online behaviors and interests of people who interact with our services.",
+    "question2": "AM I CONCERNED BY THE REGULATION ON COOKIES?",
+    "answer2": {
+      "answer_line1": "The rules on cookies are covered by Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications). The directive also covers the use of similar technologies for storing or accessing information, such as 'Flash cookies' and terminal fingerprinting.",
+      "answer_line2": " Organizations must provide clear and comprehensive information about how they use cookies and ensure that, for any cookie that is not strictly necessary for their website, they give you an appropriate way to consent to it being deposited on your device; unless otherwise provided for in the regulations."
+    },
+    "question3": "WHAT COOKIES ARE USED?",
+    "answer3": {
+      "answer_line1": "When you visit our company website, cookies may be automatically installed and temporarily saved in your computer’s memory or on its hard disk in order to make it easier for you to navigate around our site. Cookies do not enable us to identify you, but are used to record information about the pages you have viewed on our website, the date and time of your visit to the site, etc.",
+      "answer_line2": " Please find below the list of the cookies used by the site Saint-Gobain BIM Library and their purpose:"
+    },
+    "question4": "HOW CAN I CONTROL MY COOKIES?",
+    "sub_title": "FROM THE PREFERENCE CENTER ON THE bimlibrary.saint-gobain.com WEBSITE",
+    "answer4": "You have the choice to accept or not the cookies except for the cookies strictly necessary for the delivery of our services which will be systematically deposited. For cookies that require your prior consent, you can make these choices at any time by accessing the Preference Center by clicking on the 'Set Cookies' icon accessible at any time during your navigation at the bottom right of your screen.",
+    "headers": {
+      "by_cookielist": {
+        "title": "COOKIE LIST",
+        "description1": "A cookie is a small piece of data (text file) that a website – when visited by a user – asks your browser to store on your device in order to remember information about you, such as your language preference or login information. Those cookies are set by us and called first-party cookies.",
+        "subtitle1": "Performance & Analytics Cookies",
+        "description2": "This website uses Google Analytics, a web analytics service provided by Google, Inc. ('Google'). The information generated by the cookie about your use of this website (including your IP address) will betransmitted to a Google server in the USA and stored there. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activities for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where this is required by law or insofar as third parties process this data on behalf of Google. Google will never associate your IP address with any other data held by Google. You may refuse the installation of cookies by selecting the appropriate settings on your browser; however please note that if you do so you may not be able to use the full functionality of this website. By using this website, you consent to the processing by Google of data relating to you in the manner and for the purposes mentioned above.",
+        "description3": "For more info about the Google Analytics cookies, click",
+        "here": "here",
+        "description4": "Another alternative to deactivate Google Analytics is to install a small",
+        "plugin": "plugin",
+        "description5": "proposed by Google for the major browsers.",
+        "subtitle2": "Strictly Necessary Cookies",
+        "description6": "These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.",
+        "table": {
+          "name": "Name",
+          "value": "Value",
+          "domain": "Domain",
+          "expires": "Expires"
+        }
+      },
+      "by_the_browser": {
+        "title": "FROM THE BROWSER",
+        "description1": "You can use your web browser to:",
+        "delete_cookies": "delete all cookies",
+        "block_cookies": "block all cookies",
+        "allow_cookies": "allow all cookies",
+        "third_party_cookies": "block ‘third-party’ cookies (ie, cookies set by online services other than the one you are visiting)",
+        "clear_cookies": "clear all cookies when you close the browser",
+        "private_browsing_session": "open a ‘private browsing’ / ‘incognito’ session, which allows you to browse the web without recording your browsing history or storing local data such as cookies (you should however be aware of the limitations of this feature in a privacy context)",
+        "install_and_plugins": "install add-ons and plugins that extend browser functionality.",
+        "description2": "Those operations may result in the deletion of all cookies used by the browser, including those used by other websites, which may lead to the alteration or loss of certain settings or information and make it difficult to navigate the website."
+      },
+      "by_information": {
+        "title": "USEFUL INFORMATION",
+        "sentence1": "A number of websites provide detailed information on cookies, including AboutCookies.org and AllAboutCookies.org",
+        "sentence2": "The European Interactive Digital Advertising Alliance website",
+        "Your_Online_Choices": "Your Online Choices",
+        "sentence3": "allows you to install opt-out cookies across different advertising networks.",
+        "sentence4": "Google has developed a browser add-on to allow users to",
+        "ga_optout": "opt-out of Google Analytics",
+        "sentence5": "across all websites which use it. This is also",
+        "sentence6": "available in the Chrome web store.",
+        "sentence7": "Some browsers include a feature known as ‘Do Not Track’ or DNT. This allows you to indicate a preference that websites should not track you. However, whilst DNT is available in many browsers, websites are not required to recognise its request, so it may not always work. You can get help on how to use DNT in",
+        "microsoft_edge": "Microsoft Edge",
+        "internet_explorer": "Internet Explorer",
+        "chrome_browse": "Chrome",
+        "firefox_rowse": "Firefox",
+        "safari_browse": "Safari",
+        "opera_browse":"Opera",
+        "sentence8": "Internet Explorer has a feature called",
+        "trackingProtectionLists": "Tracking Protection Lists ",
+        "sentence9": "which allows you to import a list of websites you want to block."
+      }
+    }
+  },
+  "privacy_policy_page": {
+    "title": "YOUR DATA AND YOUR RIGHTS",
+    "description": " At Saint-Gobain, privacy is a serious matter and we are committed to protecting it. This 'Your data and your rights' space aims to offer anyone concerned by our activities an overview of our personal data protection practices by gathering all useful information (Privacy Policy, cookies, contact, etc.) in the same place.",
+    "privacy_policy": "PRIVACY POLICY",
+    "sub_title1": "WHAT IS THIS?",
+    "description1": "At Saint-Gobain, privacy is a serious matter and we are committed to protecting it. In accordance with the General Data Protection Regulation (“GDPR”), this policy explains when, why and how companies in our group governed by this Regulation:",
+    "collect_personaldata": "collect personal data about individuals;",
+    "use_info": "use this information;",
+    "disclose_data": "disclose this kind of data to others, when this is necessary and under certain conditions;",
+    "keep_securedata": "keep secure and confidential this personal data.",
+    "sub_title2": "WHAT ARE THE POLICY CHANGES?",
+    "description2": "This policy may evolve over time so please check the date on this page to make sure that you have the latest version. This policy was last updated on 17th of May 2018.",
+    "sub_title3": "WHO WE ARE?",
+    "description3": " The BIM Library, created and managed by IDS (International Digital-IT Services) division, is one of different BIM solutions and applications developed by Saint-Gobain. It a web platform created to shared BIM material of the different Saint-Gobain group business units. Where this policy refers to “we”, “our” or “us” below, unless mentioned otherwise, this refers to the particular Company that is the controller of your personal data.",
+    "sub_title4": "HOW AND WHAT PERSONNAL INFORMATION IS COLLECTED",
+    "description4": "We may collect and process the following personal data:",
+    "description5": "Personal data you give to us: this is information about you that you give to us, entirely voluntarily, by entering information via:",
+    "our_website": "one of our websites;",
+    "our_application": "our applications;",
+    "description6": " Example: this includes information provided at the time of registering to use our websites. We may also ask you for information when you report a problem with our websites.",
+    "description7": " The information you give us may relate to your identification, such as your name, address, email address and phone number, or enquiry details.",
+    "description8": "Personal data we collect about you: we may automatically collect the following information:",
+    "details_of_transactions": "details of transactions you carry out through the websites, and your visits to our websites, including, but not limited to, traffic data, location data, weblogs and other communication data, and the resources you access;",
+    "technical_info": "technical information, automatically collected, including anonymous data collected by the hosting server for statistical purposes, the Internet protocol (IP) address used to connect your computer or device to the Internet, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform. Please see ",
+    "further_info":"for further information;",
+    "sub_title5": "WHY AND HOW WE USE YOUR PERSONAL DATA?",
+    "description9": "We process your personal data lawfully for:",
+    "purpose_of_handling": "the purpose of handling communication and exchange of information with our websites users;",
+    "purpose_of_managing": "the purpose of managing our customer/prospect relations; notably when processing your orders, responding to your requests or by regularly sending you news and information on our products, our brands or our initiatives that might arouse your interest;",
+    "specific_purpose": "any other specific purpose indicated at the time of collecting the information.",
+    "personaldata_principally": "We may use and process your personal data principally:",
+    "consent": "where you have provided freely given and explicit CONSENT and for specific, determined and legitimate purposes. You may withdraw your consent for us to use your information by contacting us at any time.",
+    "legitimate_interests": "where it is necessary for us to pursue our LEGITIMATE INTERESTS as a business, provided that your interests or your fundamental rights and freedoms are not overriding, taking into consideration your reasonable expectations, based on your relationship with us.",
+    "description10": "For example, for the following purposes:",
+    "marketing_activites": "direct marketing activities (other than where we rely on your consent) as analysis to improve our marketing strategy, and to enhance and personalize your user experience;",
+    "legal_obligation": "where it is necessary for us to COMPLY WITH A LEGAL OBLIGATION and notably:",
+    "to_assist": "to assist a public authority or criminal investigation body;",
+    "to_identify": "to identify you when you contact us under certain legal circumstances;",
+    "to_verify": "to verify the accuracy of data we hold about you;",
+    "performance_of_contract": " where it is required for the PERFORMANCE OF A CONTRACT we have with you, or because you have asked us to take specific steps before entering into a contract. This will include information that we process in order to enable you to make use of our website and the services we provide through it.",
+    "sub_title6": "WHO MAY RECEIVE OR HAVE ACCESS TO YOUR PERSONAL DATA",
+    "group_companies": "Group companies",
+    "description11": "We may share your information with other Companies within the Saint-Gobain group for internal administrative purposes or for marketing purposes in connection with the products and/or services that complement their own range of products and/or services that might interest you.",
+    "description12": " We may also transmit your personal data when we redirect your request to our contacts within the Group who are able to handle your request (for example, to solve a problem you have reported to us).",
+    "underline2": "Other ways we may share your personal data",
+    "description13": " We may transfer your personal data:",
+    "under_a_duty": "if we are under a duty to disclose or share it in order to comply with any legal obligation or when this disclosure is required by applicable laws, court orders or government regulations, to detect or report a crime, to enforce or apply the terms of our contracts or to protect the rights, property or safety of our visitors and customers;",
+    "enforce_applicable": " to enforce applicable terms of use, to protect the rights, privacy, safety or property of our companies;",
+    "consented": " if you have consented to the disclosure.",
+    "description14": " However, we will always take steps to ensure that your privacy rights continue to be protected.",
+    "sub_title7": "WHERE WE STORE YOUR PERSONAL DATA?",
+    "description15": " Your information is stored either in our databases or in the databases of our service providers. Mainly because of the international dimension of the Saint-Gobain group and in order to optimize service quality, the information you provide to us may be transferred to countries outside the European Economic Area (EEA).",
+    "description16": "In such cases, we will take to the appropriate security and confidentiality measures to ensure that your privacy rights continue to be protected as outlined in this policy. These steps include imposing contractual obligations on the recipient of your personal data or ensuring that the recipients have subscribed to “international frameworks” that aim to ensure adequate protection.",
+    "sub_title8": "HOW LONG WE KEEP YOUR PERSONAL DATA?",
+    "description17": "We retain your personal data for a period of time necessary to achieve the purpose for which we use that information and to fulfil our obligations under other laws. Except in specific cases, this period is specified at the time the information is collected.",
+    "description18": "We do not retain personal data in an identifiable format for longer than is necessary.",
+    "sub_title9": "WHAT ARE YOUR RIGHTS",
+    "description19": " Subject to applicable law and certain exemptions, restrictions or circumstances, you may have the right:",
+    "to_access": "To access your personal data;",
+    "to_correct": " To correct, modify and update your personal data;",
+    "to_erase": " To erase your personal data or restrict its processing;",
+    "to_withdraw": "To withdraw your consent;",
+    "to_object": "To object to our use of your personal data for automated decisions made about you;",
+    "to_ask": "To ask us to transfer your personal data in a structured data fileto you or to another service provider if it is technically possible (data portability);",
+    "to_lodge": " To lodge a complaint with the competent supervisory authority and seek a judicial remedy.",
+    "description20": " These rights may be exercised by written request sent to the contact details that will be provided to you at the time of data collection. A reply will be provided to you within a reasonable delay, in accordance with the applicable regulations.",
+    "sub_title10": " HOW WE ENSURE SECURITY AND CONFIDENTIALITY OF YOUR DATA",
+    "description21": " Our aim is to keep your data as safe and secure as possible at all times. Once we have received your personal data, we put in place reasonable and appropriate technical and organizational measures and controls to prevent as much as possible any accidental or unlawful destruction, loss, alteration, or unauthorized access.",
+    "sub_title11": "HOW COOKIES WORK?",
+    "description22": " Like many other websites, our websites use cookies (including Google Analytics cookies) to obtain an overall view of the volumes and the habits of our visitors on our websites.",
+    "description23": " “Cookies” are small pieces of information sent to your device and stored on its hard drive to allow our website to recognize you when you visit.",
+    "description24": " It is possible to switch off cookies by setting your browser preferences. For more information on how we use cookies and how to switch them off on your device, please visit the applicable cookies policy of the concerned website.",
+    "sub_title12": "CONTACT US",
+    "description25": "To exercise your rights or for any question about the processing of your data, you can contact our Data Protection Officer (DPO) officially appointed to the French supervisory authority (CNIL):",
+    "by_email": " by e-mail:",
+    "csg":"CSG.FR@saint-gobain.com",
+    "postalAddress": {
+      "by_postal_mail": "by postal mail:",
+      "protection_officer": "Data Protection Officer",
+      "company": "Compagnie de Saint-Gobain",
+      "address": "Tour Saint-Gobain - 12 place de l’Iris, 92096 La Défense Cedex - FRANCE."
+    }
+  },
+
+  "download":{
+    "selected_products":"Selected products",
+    "product":"Product",
+    "file_name":"File name",
+    "brand":"Brand",
+    "format":"Format",
+    "actions":"Actions",
+    "noproduct_addedcart":"No product have been added to cart",
+     "downloadbtn":"Download",
+     "download_single_filebtn":"Download Single Files"
+  },
+
+  "no_brand_available":{
+    "the_region":"The region:",
+    "has_no_brand":"has no brand",
+    "has_no_product":"has no product",
+    "choose_other_region":"Please choose other region from 'Change Region' menu.",
+    "no_brand_found":"No brand found for selected Region"
+ },
+
+  "product_contact_page":{
+     "add_bim_obj":"Add BIM objects to cart and keep exploring",
+     "download_bim_obj":"Download these BIM objects now",
+     "website":"Website"
+  },
+
+  "product_description_page":{
+     "product_is_available":"This product is available in:",
+     "bim_obj_available":"Free files and BIM objects are available or download for this product or system :",
+    "no_category_forproduct":"There is no category for this product",
+    "nolinks_product":"No links for this product",
+    "available_product_region":"This product is not available in any region",
+    "no_associated_file":"This product has no associated file"
+  },
+
+
+  "common": {
+    "goback_btn": "Go Back",
+    "and": "and",
+    "moreproduct_forbrand":"More product for this brand",
+    "seeproduct_available":"See products available for other countries",
+    "undo_btn":"UNDO",
+    "your_location":"Your current location is",
+    "cancle":"Cancel",
+    "ok":"Ok",
+    "learnmore":"learn more"
+  }
+}
