@@ -16,9 +16,9 @@
     "contact": "Contact",
     "sitemap": "Sitemap",
     "Legal": "Legal Notes & Privacy",
-    "cookie": "cookie Policy",
+    "cookie": "Cookie Policy",
     "privacy": "Privacy Policy",
-    "copyright": "© 2022 by Saint-Gobain BIM STUDIO. All rights reserved. See our Privacy Policy and Cookie Policy."
+    "copyright": "© 2022 by Saint-Gobain Digital Construction BIM Solutions. All rights reserved. See our Privacy Policy and Cookie Policy."
   },
   "cookie_Popup": {
     "cookie_title": "Set your cookie preferences",
@@ -74,13 +74,13 @@
     },
     "home_page_headings": {
       "by_application": "By Application",
-      "by_brands":"Choose products from a large choice of brands",      
+      "by_brands":"By Brands",      
       "by_products": {
         "title": "More than 10 000 products",
         "browse_productbtn": "Browse more products"
       },
       "learn_about_bim": {
-        "title": "Learn About BIM",
+        "title": "Learn about Digital Construction and BIM",
         "commitment": "Commitment to BIM",
         "objects": "Saint-Goain shares BIM objects",
         "assist": "Assist you with BIM",
@@ -374,8 +374,8 @@
  },
 
   "product_contact_page":{
-     "add_bim_obj":"Add BIM objects to cart and keep exploring",
-     "download_bim_obj":"Download these BIM objects now",
+     "add_bim_obj":"Add to cart",
+     "download_bim_obj":"Download now",
      "website":"Website"
   },
 
