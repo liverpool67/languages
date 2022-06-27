@@ -1,12 +1,12 @@
 {
   "header": {
-    "title": "BIM-LIBRARY",
+    "title": "BIM LIBRARY",
     "searchbar": "Search Product or Brands",
     "change_region": "Change Region",
     "downloads": "My Downloads",
     "login": "Login",
     "profile_menu": {
-      "home": "Home",
+      "home": "Homepage",
       "myaccount": "My Account",
       "logout": "Log Out"
     },
@@ -22,7 +22,7 @@
   },
   "cookie_Popup": {
     "cookie_title": "Set your cookie preferences",
-    "cp_description1": "Saint-Gobain BIM Library use cookies or similar technologies. Cookies allow us to access, analyze and store information such as the characteristics of your terminal or certain personal data (unique identifiers) for the following purposes : analysis and improvement of the user experience and/or our offer of content, products and services; audience measurement and analysis.",
+    "cp_description1": "The Saint-Gobain BIM Library use cookies or similar technologies. Cookies allow us to access, analyze and store information such as the characteristics of your terminal or certain personal data (unique identifiers) for the following purposes : analysis and improvement of the user experience and/or our offer of content, products and services; audience measurement and analysis.",
     "cp_description2": "You can freely give, refuse or withdraw your consent to the placing of cookies at any time by accessing our cookie setting tool. You can consent to the placing of cookies by clicking on 'Allow All'. You may refuse to accept cookies by clicking 'Reject All'.",
     "cp_description3": "For more information, consult our",
     "link":" Cookie Policy Page",
@@ -35,7 +35,7 @@
     "choose_regionbtn": "Choose Region",
     "title": "Choose a Market Region",
     "choose_region_popupbtn": "Choose Region",
-    "home_btn": "Home"
+    "home_btn": "Homepage"
   },
   "cookie_setting_popup": {
     "general_info": {
